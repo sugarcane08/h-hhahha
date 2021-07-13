@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'vyt7u ',
     btnYes: 'khùhy',
     btnNo: 'oiuyyo',
-    question:'fsewaew <3',
+    question:'f <3',
     btnReply: 'Gửi  <3',
     reply: ' <33333333',
     mess: ' nhiều 😘😘',
